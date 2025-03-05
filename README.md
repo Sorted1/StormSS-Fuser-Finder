@@ -1,5 +1,5 @@
 
-![Logo]([https://cdn.brandfetch.io/idvZziiuRS/w/512/h/512/theme/dark/idCkHEg7O-.png?c=1dxbfHSJFAPEGdCLU4o5B](https://cdn.brandfetch.io/idvZziiuRS/w/2718/h/610/theme/dark/idYrRewuEB.png?c=1dxbfHSJFAPEGdCLU4o5B))
+![Logo](https://cdn.brandfetch.io/idvZziiuRS/w/2718/h/610/theme/dark/idYrRewuEB.png?c=1dxbfHSJFAPEGdCLU4o5B)
 
 
 # StormSS Fuser Finder
